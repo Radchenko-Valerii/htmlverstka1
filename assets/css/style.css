@@ -5,24 +5,43 @@ body{
   font-size: 17px;
   color: #926239;
   line-height: 1.6;
+  text-align: center;
+  vertical-align: middle;
 }
-.zero{
-  background-color: #926239;
-  color: white;
-}
-.x{
+header{
+  background-image: url('./../../beachshowcase.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
   margin: 0;
 }
+.info{
+  background-color: #926239;
+  color: white;
+  padding: 20px;
+}
+.zero{
+  margin: 0;
+  padding: 20px;
+}
 .one{
+  color: white;
   display: inline-block;
-  width: 33%;
+  width: 30%;
+  background-color: #926239;
+  padding: 1.5%;
 }
 .two{
   display: inline-block;
-  width: 33%;
+  width: 30%;
+  padding: 1.5%
 }
 .tree{
+  color: white;
   display: inline-block;
-  width: 33%;
+  width: 30%;
+  padding: 1.5%;
+  background-color: #926239;
 }
 
