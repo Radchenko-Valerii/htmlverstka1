@@ -1,0 +1,28 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-style: arial;
+  font-size: 17px;
+  color: #926239;
+  line-height: 1.6;
+}
+.zero{
+  background-color: #926239;
+  color: white;
+}
+.x{
+  margin: 0;
+}
+.one{
+  display: inline-block;
+  width: 33%;
+}
+.two{
+  display: inline-block;
+  width: 33%;
+}
+.tree{
+  display: inline-block;
+  width: 33%;
+}
+
