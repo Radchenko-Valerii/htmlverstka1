@@ -8,6 +8,12 @@ body{
   text-align: center;
   vertical-align: middle;
 }
+h1{
+  font-size: 54px;
+}
+.text{
+font-size: 24px;
+}
 header{
   background-image: url('./../../beachshowcase.jpg');
   background-repeat: no-repeat;
@@ -15,6 +21,21 @@ header{
   background-position: center;
   height: 100vh;
   margin: 0;
+  padding: 50px 25px;
+}
+.first{
+  height: 450px; width: auto;
+  display: table-cell;
+  vertical-align: middle;
+  margin: 0;
+}
+.button{
+  padding: 10px 20px;
+  border: 1px solid #926239;
+  border-radius: 10px;
+  text-decoration: none;
+  color: #926239;
+  margin-top: 20px;
 }
 .info{
   background-color: #926239;
@@ -44,4 +65,3 @@ header{
   padding: 1.5%;
   background-color: #926239;
 }
-
